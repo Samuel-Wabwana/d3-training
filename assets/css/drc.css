@@ -1,0 +1,8 @@
+.map path {
+    fill: rgb(148, 141, 155);
+    stroke: #fff;
+    stroke-width: 1px;
+}
+.map a:hover path {
+    fill: rgb(22, 15, 41);
+}
