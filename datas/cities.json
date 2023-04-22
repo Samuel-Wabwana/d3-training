@@ -1,0 +1,37 @@
+[
+    {
+        "name": "aba",
+        "x": 24.820,
+        "y": 2.733333,
+        "population": 40507,
+        "provinceId": "CD-BU"
+    },
+    {
+        "name": "ango",
+        "x": 25.86666,
+        "y": 4.03333,
+        "population": 8381,
+        "provinceId": "CD-BU"
+    },
+    {
+        "name": "bafwasende",
+        "x": 25.86666,
+        "y": 4.03333,
+        "population": 8381,
+        "provinceId": "CD-TO"
+    },
+    {
+        "name": "bukama",
+        "x": 25.833333,
+        "y": -9.216666,
+        "population": 75814,
+        "provinceId": "CD-HL"
+    },
+    {
+        "name": "dilolo",
+        "x": 25.116666,
+        "y": -9.216666,
+        "population": 17446,
+        "provinceId": "CD-LU"
+    }
+]

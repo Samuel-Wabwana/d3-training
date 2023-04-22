@@ -46,6 +46,7 @@ const width = 975;
 
   function clicked(event, d) {
     const [[x0, y0], [x1, y1]] = path.bounds(d);
+    console.log(path.bounds(d))
     event.stopPropagation();
     states.transition().style("fill", null);
     d3.select(this).transition().style("fill", "red");

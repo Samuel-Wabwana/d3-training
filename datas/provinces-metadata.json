@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Haut-Katanga",
+        "id": "CD-HK",
+        "population": 3960945,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Bas-Uélé",
+        "id": "CD-BU",
+        "population": 1212047,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Haut-Uélé",
+        "id": "CD-HU",
+        "population": 3212047,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Ituri",
+        "id": "CD-IT",
+        "population": 1212047,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Kasaï",
+        "id": "CD-KS",
+        "population": 1212047,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Kasaï-Central",
+        "id": "CD-KC",
+        "population": 2212047,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Kasaï Oriental",
+        "id": "CD-KE",
+        "population": 458047,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Kinshasa City",
+        "id": "CD-KN",
+        "population": 15458047,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Kwango",
+        "id": "CD-KG",
+        "population": 5489635,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Kwilu",
+        "id": "CD-KL",
+        "population": 75989635,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Lomami",
+        "id": "CD-LO",
+        "population": 25989635,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    },
+    {
+        "name": "Lualaba",
+        "id": "CD-LU",
+        "population": 25989635,
+        "healthzones": [
+            "Mitwaba",
+            "Kilwa",
+            "Mufunga Sampwe",
+            "Kashobwe",
+            "Kasenga",
+            "Lukafu",
+            "Lukafu",
+            "Kambove"
+        ]
+    }
+]
